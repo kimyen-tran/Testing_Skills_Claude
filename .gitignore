@@ -1,0 +1,8 @@
+# Per-ticket QA docs (internal WKY content)
+docs/tickets/
+# Google service account keys
+*.json.key
+service-account*.json
+__pycache__/
+# Tài khoản test (mật khẩu) — chỉ lưu local
+*.local.json

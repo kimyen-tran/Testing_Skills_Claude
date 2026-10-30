@@ -1,0 +1,5 @@
+{
+  "skills": {
+    "allowed": ["wky-ticket-fetch", "requirement-analysis", "wky-qa-comment", "test-design", "test-cases-to-gsheet", "test-run", "bug-log", "test-report", "wky-qa-flow"]
+  }
+}
